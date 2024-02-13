@@ -7,7 +7,7 @@ Upload the three CSVs
   * Diabetes (maybe) 
   * Readmission Race and Ethnicity
   * Economics Data
-### Economics CSV 
+### Readmission Race&Eth CSV 
   * convert to data sheet 
   * use group.by function to groupby states in "state" column 
     * result will be data sheet by state
