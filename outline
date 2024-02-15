@@ -18,3 +18,11 @@ Readmission Race and Ethnicity
 Upload cenus csv
  * convert to data frame
  * clean and eliminate unnecessary columns 
+
+(general analytics)
+Graphs: 
+Bottom 5 states: readmission rates per race (multi bar chart)
+Bottom 5 states: readmission rates per race (multi bar chart)
+Census:
+Top 5 states: economics for x groups (15k, 100k, 200k+)
+Bottom 5 states: economics for x groups (15k, 100k, 200k+)
