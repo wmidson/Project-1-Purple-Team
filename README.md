@@ -30,4 +30,4 @@ If we were to further explore this study, our group agreed that we would want to
 This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M, Michael N., Kyle T, Will M, and Julian H.
 
 
-We also used Xpert Learning Assistance, ChapGPT for helping with specific code along with our Reed Hyde and Jake Byford for additional assistance. 
+We also used Xpert Learning Assistance, ChapGPT for helping with specific code along with our instructors, Reed Hyde and Jake Byford, for additional assistance. 
