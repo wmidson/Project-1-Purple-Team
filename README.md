@@ -27,7 +27,7 @@ We conclude that there is a difference among readmission rates for the best 4 an
 
 If we were to further explore this study, our group agreed that we would want to further explore data around proximity to hospitals per state, the type of diagnoses that are most common within each state, gender, as well as the supply and demand for hospital beds in each state to get a better idea around the two questions.
 
-This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M, Michael N., Kyle T, Will M, and Julian H.
+This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M., Michael N., Kyle TT., Will M., and Julian H.
 
 
 We also used Xpert Learning Assistance, ChapGPT for helping with specific code along with our instructors, Reed Hyde and Jake Byford, for additional assistance. 
