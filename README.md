@@ -26,7 +26,7 @@ Analyze United States hospital readmission rates for possible geographic and soc
   * Used the describe function to display the statistical variance we have for the second set of data
   
 ## Summary
-The goal of this project was to determine the two questions above and we started by leveraging two datasets.  We located one dataset from Centers for Medicare data around readmission rates in hospitals by Geo, State, and Race.  The second dataset was the American Community Survey data that was able to display State and Race data per income level in the US.  We ran this study to see how effective the new laws of Medicare have been since starting a new project to lower hospital readmission rates in the US.
+The goal of this project was to answer the two questions above and we started by leveraging two datasets.  We located one dataset from Centers for Medicare data around readmission rates in hospitals by Geo, State, and Race.  The second dataset was the American Community Survey data that was able to display State and Race data per income level in the US.  We ran this study to see how effective the new laws of Medicare have been since starting a new project to lower hospital readmission rates in the US.
 
 We go through our analysis by first showing if there is an influence that geography may play in readmission rates in the US, which we determine there is based on the first set of charts.  Thereafter, we further analyze any socioeconomic influences the second dataset may display as it relates to race and income and its effects on readmission rates in the US.  
 
