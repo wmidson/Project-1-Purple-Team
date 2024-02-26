@@ -1,7 +1,7 @@
 # Project-1-Purple-Team
 This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M., Michael N., Kyle T., Will M., and Julian H.
 
-## Questions to Answer: 
+## Questions to Answer
 * Is there a geographic component to readmission?
 * Is there a link between socioeconomic conditions and hospital readmission rates?
 
@@ -19,7 +19,7 @@ This project was done for the Data Science Penn Bootcamp and the group members i
   * Chart stacked bar graph for race by income for worst and best states
   * Used the describe function to display the statistical variance we have for the second set of data
   
-
+## Summary
 The goal of this project was to determine the two questions above and we started by leveraging two datasets.  We located one dataset from Centers for Medicare data around readmission rates in hospitals by Geo, State, and Race.  The second dataset was the American Community Survey data that was able to display State and Race data per income level in the US.  We ran this study to see how effective the new laws of Medicare have been since starting a new project to lower hospital readmission rates in the US.
 
 We go through our analysis by first showing if there is an influence that geography may play in readmission rates in the US, which we determine there is based on the first set of charts.  Thereafter, we further analyze any socioeconomic influences the second dataset may display as it relates to race and income and its effects on readmission rates in the US.  
