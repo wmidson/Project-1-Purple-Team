@@ -5,21 +5,19 @@ This project was done for the Data Science Penn Bootcamp and the group members i
 * Is there a geographic component to readmission?
 * Is there a link between socioeconomic conditions and hospital readmission rates?
 
-*Data Cleaning Notebook
-includes all of our raw data cleaned into dataframes that were leveraged in the Dataanlytics notebook
-
-
-Table of Contents
+## Table of Contents
+* Data Cleaning Notebook
+  * includes all of our raw data cleaned into dataframes that were leveraged in the Dataanlytics notebook
 * Data Analytics Notebook
-- Readmission rate by state & race
-- readmission rate by state
-- Chart all readmission rates by State
-- Chart worst 4 and best 4 states by readmission
-- Chart worst 4 and best 4 states including race to state
-- Show that there is a nominal variance between readmission rates even among the best and worst 4 states in the country
-- Chart bar graph race by income level for worst and best 4 states in the country
-- Chart stacked bar graph for race by income for worst and best states
-- Used the describe function to display the statistical variance we have for the second set of data
+  * Readmission rate by state & race
+  * readmission rate by state
+  * Chart all readmission rates by State
+  * Chart worst 4 and best 4 states by readmission
+  * Chart worst 4 and best 4 states including race to state
+  * Show that there is a nominal variance between readmission rates even among the best and worst 4 states in the country
+  * Chart bar graph race by income level for worst and best 4 states in the country
+  * Chart stacked bar graph for race by income for worst and best states
+  * Used the describe function to display the statistical variance we have for the second set of data
   
 
 The goal of this project was to determine the two questions above and we started by leveraging two datasets.  We located one dataset from Centers for Medicare data around readmission rates in hospitals by Geo, State, and Race.  The second dataset was the American Community Survey data that was able to display State and Race data per income level in the US.  We ran this study to see how effective the new laws of Medicare have been since starting a new project to lower hospital readmission rates in the US.
