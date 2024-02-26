@@ -1,8 +1,14 @@
 # Project-1-Purple-Team
 This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M., Michael N., Kyle T., Will M., and Julian H.
 
+<img width="80%" alt="Screenshot (43)" src="https://github.com/wmidson/Project-1-Purple-Team/assets/153451355/2d81efb2-269c-4138-a74e-a235ad8e8f4e">
+
+
+## Objective
+Analyze United States hospital readmission rates for possible geographic and socieconomic factors.
+
 ## Questions to Answer
-* Is there a geographic component to readmission?
+* Is there a geographic component to hospital readmission rates?
 * Is there a link between socioeconomic conditions and hospital readmission rates?
 
 ## Table of Contents
