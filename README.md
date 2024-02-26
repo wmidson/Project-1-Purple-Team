@@ -1,5 +1,5 @@
 # Project 1 - Purple Team
-This project was done for the UPenn Data Science bootcamp. The group members involved were #### Michael M., #### Michael N., #### Kyle T., #### Will M., and #### Julian H.
+This project was done for the UPenn Data Science bootcamp. The group members involved were Michael M., Michael N., Kyle T., Will M., and Julian H.
 
 <img width="100%" alt="Screenshot (43)" src="https://github.com/wmidson/Project-1-Purple-Team/assets/153451355/2d81efb2-269c-4138-a74e-a235ad8e8f4e">
 
