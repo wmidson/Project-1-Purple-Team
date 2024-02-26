@@ -1,5 +1,5 @@
 # Project-1-Purple-Team
-This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M., Michael N., Kyle TT., Will M., and Julian H.
+This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M., Michael N., Kyle T., Will M., and Julian H.
 
 ## Questions to Answer: 
 * Is there a geographic component to readmission?
