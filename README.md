@@ -1,4 +1,7 @@
 # Project-1-Purple-Team
+This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M., Michael N., Kyle TT., Will M., and Julian H.
+
+## Questions to Answer: 
 * Is there a geographic component to readmission?
 * Is there a link between socioeconomic conditions and hospital readmission rates?
 
@@ -26,8 +29,6 @@ We go through our analysis by first showing if there is an influence that geogra
 We conclude that there is a difference among readmission rates for the best 4 and worst states in terms of readmission and the worst four look to have a wealthier overall population.  However, the larger conclusion we can draw from the study is that all 50 states only have a 2% overall variance in terms of readmission rates which shows that the new project and law set to lower and standardize readmission rates in the US is effective.  
 
 If we were to further explore this study, our group agreed that we would want to further explore data around proximity to hospitals per state, the type of diagnoses that are most common within each state, gender, as well as the supply and demand for hospital beds in each state to get a better idea around the two questions.
-
-This project was done for the Data Science Penn Bootcamp and the group members involved were Michael M., Michael N., Kyle TT., Will M., and Julian H.
 
 
 We also used Xpert Learning Assistance, ChapGPT for helping with specific code along with our instructors, Reed Hyde and Jake Byford, for additional assistance. 
